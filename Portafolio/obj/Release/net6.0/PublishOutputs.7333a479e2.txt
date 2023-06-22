@@ -1,0 +1,7 @@
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\Portafolio.exe
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\Portafolio.dll
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\Portafolio.deps.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\Portafolio.runtimeconfig.json
+C:\Users\juans\Desktop\Programacion\C# .NET\Udemy\Portafolio\Portafolio\Portafolio\obj\Release\net6.0\PubTmp\Out\Portafolio.pdb
