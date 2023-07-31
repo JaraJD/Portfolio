@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\images\\Angular_full.png"
     },
     {
+      "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\Blog.png",
+      "PackagePath": "staticwebassets\\images\\Blog.png"
+    },
+    {
+      "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\GifsApp.png",
+      "PackagePath": "staticwebassets\\images\\GifsApp.png"
+    },
+    {
       "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\MongoDB.png",
       "PackagePath": "staticwebassets\\images\\MongoDB.png"
     },
@@ -33,8 +41,20 @@
       "PackagePath": "staticwebassets\\images\\NET_Core_.png"
     },
     {
+      "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\PersonalBudget.png",
+      "PackagePath": "staticwebassets\\images\\PersonalBudget.png"
+    },
+    {
       "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\PostgreSQL.jpg",
       "PackagePath": "staticwebassets\\images\\PostgreSQL.jpg"
+    },
+    {
+      "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\Store.png",
+      "PackagePath": "staticwebassets\\images\\Store.png"
+    },
+    {
+      "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\airlinesWebsite.png",
+      "PackagePath": "staticwebassets\\images\\airlinesWebsite.png"
     },
     {
       "Id": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\juan.jpg",

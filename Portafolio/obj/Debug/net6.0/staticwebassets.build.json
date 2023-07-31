@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "o3KtqDBT/tx/rI7Ssi2H4NHNmANQS1UwonoSlA3ctGE=",
+  "Hash": "1vHtEznOsVi0Qcq4+fSfRU56Y7M34GwknJKe/a/beDI=",
   "Source": "Portafolio",
   "BasePath": "_content/Portafolio",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\airlinesWebsite.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/airlinesWebsite.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\airlinesWebsite.png"
+    },
+    {
       "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\Angular_full.png",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -117,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Angular_full.png"
+    },
+    {
+      "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\Blog.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/Blog.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Blog.png"
+    },
+    {
+      "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\GifsApp.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/GifsApp.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\GifsApp.png"
     },
     {
       "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\juan.jpg",
@@ -187,6 +238,23 @@
       "OriginalItemSpec": "wwwroot\\images\\NET_Core_.png"
     },
     {
+      "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\PersonalBudget.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/PersonalBudget.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\PersonalBudget.png"
+    },
+    {
       "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\PostgreSQL.jpg",
       "SourceId": "Portafolio",
       "SourceType": "Discovered",
@@ -219,6 +287,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\sql-server.png"
+    },
+    {
+      "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\images\\Store.png",
+      "SourceId": "Portafolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\",
+      "BasePath": "_content/Portafolio",
+      "RelativePath": "images/Store.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Store.png"
     },
     {
       "Identity": "C:\\Users\\juans\\Desktop\\Programacion\\C# .NET\\Udemy\\Portafolio\\Portafolio\\Portafolio\\wwwroot\\js\\site.js",
